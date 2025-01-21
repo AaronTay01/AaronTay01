@@ -14,7 +14,9 @@
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/npm/@tandpfun/skill-icons/icons/git.svg" width="70" height="70" /></a> 
   <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/npm/@tandpfun/skill-icons/icons/scikit-learn.svg" width="70" height="70" /></a> 
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/npm/@tandpfun/skill-icons/icons/react.svg" width="70" height="70" /></a> 
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/npm/@tandpfun/skill-icons/icons/django.svg" width="70" height="70" /></a> 
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/npm/@tandpfun/skill-icons/icons/django.svg" width="70" height="70" /></a>
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 
 
 
