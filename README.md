@@ -3,16 +3,17 @@
 ### Aspiring to be an AI Engineer | Full Stack Developer. 
 
 - 🧑‍💻 Skill and Tools: 
-- [![.env](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/env.svg)](https://github.com/motdotla/dotenv)
-  - [![Arduino](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/arduino.svg)](https://www.arduino.cc/)
-  - [![Matplotlib](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/matplotlib.svg)](https://matplotlib.org/)
-  - [![PyTorch](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg)](https://pytorch.org/)
-  - [![TensorFlow](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg)](https://www.tensorflow.org/)
-  - [![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg)](https://www.typescriptlang.org/)
-  - [![Flask](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flask.svg)](https://flask.palletsprojects.com/)
-  - [![Jupyter](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg)](https://jupyter.org/)
-  - [![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg)](https://git-scm.com/)
-  - [![Scikit-learn](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scikit-learn.svg)](https://scikit-learn.org/)
+  - <a href="https://github.com/motdotla/dotenv"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/env.svg" width="30" /></a>
+  - <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/arduino.svg" width="30" /></a>
+  - <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/matplotlib.svg" width="30" /></a>
+  - <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg" width="30" /></a>
+  - <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" width="30" /></a>
+  - <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" width="30" /></a>
+  - <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flask.svg" width="30" /></a>
+  - <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" width="30" /></a>
+  - <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" width="30" /></a>
+  - <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scikit-learn.svg" width="30" /></a>
+
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/your-profile)
