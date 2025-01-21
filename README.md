@@ -2,9 +2,9 @@
 
 ### Aspiring to be an AI Engineer | Full Stack Developer. 
 
-- 🧑‍💻 Skill and Tools:\n
- <a href="https://github.com/motdotla/dotenv"><img src="https://img.shields.io/badge/Environment-%23000.svg?logo=dotenv" width="30" /></a> 
-  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-%23A6E200.svg?logo=arduino" width="30" /></a> 
+- 🧑‍💻 Skill and Tools:
+ <a href="https://github.com/motdotla/dotenv"><img src="https://img.shields.io/badge/Environment-%23000.svg?logo=dotenv" width="50" /></a> 
+  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-%23A6E200.svg?logo=arduino" width="50" /></a> 
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23#0A3C4E.svg?logo=matplotlib" width="30" /></a> 
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch" width="30" /></a> 
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow" width="30" /></a> 
