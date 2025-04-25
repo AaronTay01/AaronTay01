@@ -39,5 +39,9 @@ I'm Aaron — an aspiring **Data Scientist** and **Full Stack Developer** with a
 - [LinkedIn](https://linkedin.com/in/aarontayhanyen)
 - 💌 Email: aarontayhanyen@gmail.com
 
+### 📊 GitHub Stats
+
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=light)
+
 
 
