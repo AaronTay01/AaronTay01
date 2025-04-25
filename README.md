@@ -41,7 +41,7 @@ I'm Aaron — an aspiring **Data Scientist** and **Full Stack Developer** with a
 
 ### 📊 GitHub Stats
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarontayhanyen&show_icons=true&theme=radical)
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarontay01&show_icons=true&theme=radical)
 
 
 
