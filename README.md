@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Aspiring to be an AI Engineer | Full Stack Developer! 
+### Aspiring to be a Data Scientist or a Full Stack Developer! 
 
 - 🧑‍💻 Skill and Tools:
 
