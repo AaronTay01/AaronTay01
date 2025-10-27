@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Aaron — an aspiring **Data Scientist** and **Full Stack Developer** with a passion for building intelligent and intuitive applications.
+I'm Aaron. Really that's it.
 
 ### 🧰 Tech Stack & Tools
 
