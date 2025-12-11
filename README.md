@@ -5,23 +5,23 @@ I enjoy building practical tools, exploring ML/AI, and learning new technologies
 
 ### 🧰 Tech Stack & Tools
 
-**Languages & ML:**  
 <p align="center">
-[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48">](https://jupyter.org/)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light)](https://pytorch.org/) 
-[![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
+  <b>Languages & ML:</b><br>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="48" /></a>
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" /></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="48" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript&theme=light" width="48" /></a>
 </p>
 
-**Frontend:**  
 <p align="center">
-[![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/) 
-[![Vue](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
+  <b>Frontend:</b><br>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" /></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=light" width="48" /></a>
 </p>
 
-**Backend & Frameworks:**  
 <p align="center">
-[![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
+  <b>Backend & Frameworks:</b><br>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=light" width="48" /></a>
 </p>
 
 
