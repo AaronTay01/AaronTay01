@@ -4,13 +4,18 @@ I'm Aaron. Really that's it.
 
 ### 🧰 Tech Stack & Tools
 
-[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
+**Languages & ML:**  
+[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48">](https://jupyter.org/)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light)](https://pytorch.org/) 
-[![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/) 
-[![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
-[![Vue](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
 [![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
+
+**Frontend:**  
+[![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/) 
+[![Vue](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
+
+**Backend & Frameworks:**  
+[![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
 
 
 
@@ -30,11 +35,8 @@ I'm Aaron. Really that's it.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/aarontayhanyen)
+- [GitHub](https://github.com/aarontayhanyen)
 - 💌 Email: aarontayhanyen@gmail.com
-
-### 📊 GitHub Stats
-
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarontay01&show_icons=true&theme=radical)
 
 
 
