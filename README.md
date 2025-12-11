@@ -6,17 +6,23 @@ I enjoy building practical tools, exploring ML/AI, and learning new technologies
 ### 🧰 Tech Stack & Tools
 
 **Languages & ML:**  
+<p align="center">
 [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48">](https://jupyter.org/)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light)](https://pytorch.org/) 
 [![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
+</p>
 
 **Frontend:**  
+<p align="center">
 [![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/) 
 [![Vue](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
+</p>
 
 **Backend & Frameworks:**  
+<p align="center">
 [![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
+</p>
 
 
 ### 💼 Experience Highlights
