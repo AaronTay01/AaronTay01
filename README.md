@@ -5,7 +5,7 @@ I'm Aaron. Really that's it.
 ### 🧰 Tech Stack & Tools
 
 [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=light)](https://jupyter.org/) 
+[![Jupyter](https://skillicons.dev/icons?i=notion&theme=light)](https://jupyter.org/)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light)](https://pytorch.org/) 
 [![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/) 
 [![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
