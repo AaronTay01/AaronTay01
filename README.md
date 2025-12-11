@@ -4,21 +4,14 @@ I'm Aaron. Really that's it.
 
 ### 🧰 Tech Stack & Tools
 
-[![Arduino](https://skillicons.dev/icons?i=arduino&theme=light)](https://www.arduino.cc/) 
+[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://www.python.org/)
+[![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=light)](https://jupyter.org/) 
 [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light)](https://pytorch.org/) 
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light)](https://www.tensorflow.org/) 
-[![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/) 
-[![Flask](https://skillicons.dev/icons?i=flask&theme=light)](https://flask.palletsprojects.com/) 
 [![React](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/) 
 [![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
 [![Vue](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
-[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/) 
-[![Matplotlib](https://skillicons.dev/icons?i=matplotlib&theme=light)](https://matplotlib.org/) 
-[![Scikit-learn](https://skillicons.dev/icons?i=scikit-learn&theme=light)](https://scikit-learn.org/) 
-[![.env](https://skillicons.dev/icons?i=dotenv&theme=light)](https://github.com/motdotla/dotenv) 
-[![Jupyter](https://skillicons.dev/icons?i=jupyter&theme=light)](https://jupyter.org/) 
-[![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com/)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+[![TypeScript](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
+
 
 
 ---
