@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Aaron. Really that's it.
+I'm Aaron, a Software Engineer focused on **Full Stack Web Development, Data Engineering, and AV Systems Automation**.  
+I enjoy building practical tools, exploring ML/AI, and learning new technologies.
 
 ### 🧰 Tech Stack & Tools
 
@@ -18,18 +19,22 @@ I'm Aaron. Really that's it.
 [![Django](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)
 
 
+### 💼 Experience Highlights
+- Full Stack Development (React, Vue, Django, Firebase, MongoDB, AWS)  
+- Data Engineering (PyTorch, Python, ETL pipelines, Machine Learning, Deep Learning)  
+- AV Systems Automation (Crestron, Extron)
 
 ---
 
 ### 🚀 Featured Projects
-
+<!--
 - **Kanban App**  
   A Trello-like productivity tool using Vue, Firebase, and draggable UI  
   🔗 [Live App](https://kanban-dev-01.web.app/)  
   🎨 [Figma Mockup](https://www.figma.com/design/3vctSr5ebyTrIQ7EzL4Kut/Untitled?node-id=0-1&t=7c2PL7NcTf640dxc-1)
-
-- **Water Pump Fault Detection (SUTD Project)**  
-  Applied ML models (SVM, Random Forest, ARIMA) to predict pump failures.
+-->
+- **Water Supply System Dataset: Non-Invasive Sensor Data for Smart Water Pumps**
+  Applied ML models to detect pump inefficiency and analyze water supply system performance.  
   📄 [Published Paper (ACM Digital Library)](https://dl.acm.org/doi/10.1145/3671127.3698790)
 ---
 
@@ -39,4 +44,13 @@ I'm Aaron. Really that's it.
 - 💌 Email: aarontayhanyen@gmail.com
 
 
+### 🔭 Currently Learning
+- Japanese (JLPT N4 → aiming for N2)
+- Linux & Server Administration  
+- Self-Hosting & DevOp (Docker)
 
+### ⚡ Fun Facts
+- ☕ Coffee enthusiast  
+- 💻 Internet of Things enthusiast  
+- 🎮 Avid Gamer
+- 🎸 Guitar hobbyist
